@@ -1,0 +1,272 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .about-us {
+        padding: 30px;
+    }
+    .about-us img {
+        width: 100%;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .about-us {
+        padding: 30px;
+    }
+    .about-us img {
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .about-us {
+        padding: 30px;
+    }
+    .about-us img {
+        width: 100%;
+    }
+
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .about-us {
+        padding: 30px;
+    }
+    .about-us img {
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .text-img-container{
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .text-img-container img{
+        width: 100%;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .text-img-container{
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .text-img-container img{
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .text-img-container{
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .text-img-container img{
+        width: 100%;
+    }
+
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .text-img-container{
+        display: grid;
+        grid-template-columns: 100%;
+    }
+    .text-img-container img{
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .menu-container{
+       height: 100vh !important;
+  }
+    .item-holder{
+        position: relative;
+        height: 1000px !important;
+    }
+    .pancakes-bg {
+        background-image: url("../images/pancake1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .rice-bg {
+        background-image: url("../images/rice1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .waffles-bg {
+        background-image: url("../images/waffles1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .milkshake-bg {
+        background-image: url("../images/milkshake.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    .menu-container{
+        height: 100vh !important;
+    }
+    .item-holder{
+        position: relative;
+        height: 1000px !important;
+    }
+    .pancakes-bg {
+        background-image: url("../images/pancake1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .rice-bg {
+        background-image: url("../images/rice1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .waffles-bg {
+        background-image: url("../images/waffles1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .milkshake-bg {
+        background-image: url("../images/milkshake.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .menu-container{
+        height: 100vh !important;
+    }
+    .item-holder{
+        position: relative;
+        height: 1000px !important;
+    }
+    .pancakes-bg {
+        background-image: url("../images/pancake1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .rice-bg {
+        background-image: url("../images/rice1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .waffles-bg {
+        background-image: url("../images/waffles1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .milkshake-bg {
+        background-image: url("../images/milkshake.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .menu-container{
+        height: 100vh !important;
+    }
+    .item-holder{
+        position: relative;
+        height: 1000px !important;
+    }
+    .pancakes-bg {
+        background-image: url("../images/pancake1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .rice-bg {
+        background-image: url("../images/rice1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .waffles-bg {
+        background-image: url("../images/waffles1.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+    .milkshake-bg {
+        background-image: url("../images/milkshake.jpg") !important;
+        height: 1000px !important;
+        background-position: top !important;
+        background-size: cover !important;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .carousel {
+        height:100vh !important;
+    }
+    .carousel img{
+        width: 100% !important;
+        height: 95vh !important;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .carousel {
+        height: 100vh !important;
+    }
+    .carousel img{
+        width: 100% !important;
+        height: 95vh !important;
+    }
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .carousel {
+        height: 100vh !important;
+    }
+    .carousel img{
+        width: 100% !important;
+        height: 95vh !important;
+    }
+
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .carousel {
+        height: 100vh !important;
+    }
+    .carousel img{
+        width: 100% !important;
+        height: 95vh !important;
+    }
+
+}
